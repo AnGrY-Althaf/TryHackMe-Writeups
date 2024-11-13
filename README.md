@@ -1,2 +1,2 @@
 # TryHackMe-Writeups
-TryHackMe Rooms Writeup Created By AnGrY
+Rooms Writeup Created By AnGrY
